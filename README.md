@@ -1,1 +1,1 @@
-# rsschool-cv
+# CV Markdown: https://dimakoba.github.io/rsschool-cv/cv
